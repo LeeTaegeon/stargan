@@ -1,8 +1,9 @@
 <p align="center"><img width="40%" src="jpg/logo.jpg" /></p>
-
+### ============================================================================
 ## Method to apply StarGAN on custom data.(only modified CelebA training set)
-## Also, printing out multiple pics in one image file, separated each picture to be saved as dif image files.
+## Method to save each image in one image file, instead printing out multiple images in one file. 
 ## view solver2.py 
+### ============================================================================
 
 --------------------------------------------------------------------------------
 This repository provides a PyTorch implementation of [StarGAN](https://arxiv.org/abs/1711.09020). StarGAN can flexibly translate an input image to any desired target domain using only a single generator and a discriminator. The demo video for StarGAN can be found [here](https://www.youtube.com/watch?v=EYjdLppmERE).
