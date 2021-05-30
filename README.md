@@ -5,7 +5,7 @@
 ###  '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ##  Method to apply StarGAN on custom data.(only modified CelebA training set)
 ##  Method to save each image in one image file, instead printing out multiple images in one file. 
-##  view solver2.py 
+##  view solver2.py -- line 525
 For whom do not know how to handle torch code...
 Here now you can be able to apply StarGAN into your custom data.
 ###  '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
